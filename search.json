@@ -1,0 +1,23 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "Hello I am Piper, here is a blog with some interesting things about sports and my interests."
+  },
+  {
+    "objectID": "posts/ncca-basketball-huskers-march-madness-run/index.html",
+    "href": "posts/ncca-basketball-huskers-march-madness-run/index.html",
+    "title": "Nebraska had a program first in March Madness",
+    "section": "",
+    "text": "Code\nlibrary(tidyverse)\n\n\nNebraska’s March Madness run was one for the ages."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "sportsblog",
+    "section": "",
+    "text": "Nebraska had a program first in March Madness\n\n\n\nncaa\n\nbasketball\n\nhuskers\n\n\n\n\n\n\n\n\n\nApr 10, 2026\n\n\nPiper Poss\n\n\n\n\n\nNo matching items"
+  }
+]
